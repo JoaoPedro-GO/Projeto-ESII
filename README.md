@@ -1,5 +1,8 @@
 Projeto Plataforma de estudos
 
+
+Participantes:
+
 Thales Manoel da Cruz Carrion
 Misael Eduardo de Moraes Ramalho
 João Pedro Gomes Oliveira
