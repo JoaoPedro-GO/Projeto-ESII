@@ -38,3 +38,4 @@ Mercado Alvo:
 Global: Qualquer pessoa que esteja em contato com a área da educação, tanto para ensino quanto para aprendizado. 
 
 ARQUIVO PERSONAS: https://docs.google.com/document/d/19n6_tmkUlwAOwde87S4E9ORlzxiiwaUX3Wo64fDT1bU/edit?usp=sharing
+ARQUIVO JORNADA DO USUARIO: https://docs.google.com/document/d/1BLravtq0V6pzakoNnDa5eoT_QrcQVve3/edit?usp=sharing&ouid=106791850000732094161&rtpof=true&sd=true
