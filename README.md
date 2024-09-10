@@ -40,7 +40,7 @@ Global: Qualquer pessoa que esteja em contato com a área da educação, tanto p
 ### Links
 ARQUIVO PERSONAS: Clique [aqui](https://docs.google.com/document/d/19n6_tmkUlwAOwde87S4E9ORlzxiiwaUX3Wo64fDT1bU/edit?usp=sharing)
 
-ARQUIVO JORNADA DO USUARIO: Clique [aqui](https://docs.google.com/document/d/1BLravtq0V6pzakoNnDa5eoT_QrcQVve3/edit?usp=sharing&ouid=106791850000732094161&rtpof=true&sd=true)
+ARQUIVO JORNADA DO USUARIO: Clique [aqui](https://docs.google.com/document/d/1AVM99d2UC9CbVzJ32PNqugadAl6dbmVR/edit)
 
 ARQUIVO PROTÓTIPO BAIXA FIDELIDADE: Clique [aqui](https://www.figma.com/design/JSt7xPsAXte9VE2BMi7Twa/Projeto---Plataforma-de-estudos?node-id=0-1&m=dev&t=2FGxEjrAq4jDLX4d-1)
 
