@@ -37,6 +37,8 @@ Aulas Particulares: Pagamento por aulas particulares com professores através da
 ### Mercado Alvo:
 Global: Qualquer pessoa que esteja em contato com a área da educação, tanto para ensino quanto para aprendizado. 
 
+
+
 ## Links
 ARQUIVO PERSONAS: Clique [aqui](https://docs.google.com/document/d/19n6_tmkUlwAOwde87S4E9ORlzxiiwaUX3Wo64fDT1bU/edit?usp=sharing)
 
