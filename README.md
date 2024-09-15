@@ -4,11 +4,11 @@
 
 ### Participantes:
 
-Thales Manoel da Cruz Carrion,
-Misael Eduardo de Moraes Ramalho,
-João Pedro Gomes Oliveira,
-Miguel  José Delgado,
-Andre Yuji kataoka,
+- Thales Manoel da Cruz Carrion,
+- Misael Eduardo de Moraes Ramalho,
+- João Pedro Gomes Oliveira,
+- Miguel  José Delgado,
+- Andre Yuji kataoka,
 
 
 
@@ -37,7 +37,7 @@ Aulas Particulares: Pagamento por aulas particulares com professores através da
 ### Mercado Alvo:
 Global: Qualquer pessoa que esteja em contato com a área da educação, tanto para ensino quanto para aprendizado. 
 
-### Links
+# Links
 ARQUIVO PERSONAS: Clique [aqui](https://docs.google.com/document/d/19n6_tmkUlwAOwde87S4E9ORlzxiiwaUX3Wo64fDT1bU/edit?usp=sharing)
 
 ARQUIVO JORNADA DO USUARIO: Clique [aqui](https://docs.google.com/document/d/1AVM99d2UC9CbVzJ32PNqugadAl6dbmVR/edit?usp=sharing&ouid=106791850000732094161&rtpof=true&sd=true)
