@@ -43,5 +43,5 @@ ARQUIVO PERSONAS: Clique [aqui](https://docs.google.com/document/d/19n6_tmkUlwAO
 
 ARQUIVO JORNADA DO USUARIO: Clique [aqui](https://docs.google.com/document/d/1AVM99d2UC9CbVzJ32PNqugadAl6dbmVR/edit?usp=sharing&ouid=106791850000732094161&rtpof=true&sd=true)
 
-ARQUIVO PROTÓTIPO BAIXA FIDELIDADE: Clique [aqui](https://www.figma.com/design/JSt7xPsAXte9VE2BMi7Twa/Projeto---Plataforma-de-estudos?node-id=0-1&m=dev&t=2FGxEjrAq4jDLX4d-1)
+ARQUIVO PROTÓTIPO BAIXA FIDELIDADE: Clique [aqui](https://www.canva.com/design/DAGS7j8s2v4/vBhoi4q9Q46A_VuTnUV92A/view?utm_content=DAGS7j8s2v4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
