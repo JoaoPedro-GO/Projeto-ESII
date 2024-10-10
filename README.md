@@ -38,8 +38,8 @@ Global: Qualquer pessoa que esteja em contato com a área da educação, tanto p
 As fontes de receita da plataforma serão advindas de 2 níveis de assinatura que vão de acordo com as necessidades e interesses dos usuários, além de uma comissão recebida pelas mentorias acertadas pelo aluno com o professor.
 
 ### Plano Free
-- Acesso ao banco de questões completo da plataforma, de acordo com as matérias de seu interesse✅
-- Acesso a 5 questões corrigidas por dia✅
+- Acesso a 5 questões corrigidas por semana✅
+- Acesso ao banco de questões completo da plataforma, de acordo com as matérias de seu interesse❌
 - Sem anúncios❌
 - Acesso a comentários detalhados das questões pelos professores❌
 - Tirar novas dúvidas sobre a questão com o autor das questões❌
