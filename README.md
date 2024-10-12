@@ -39,7 +39,7 @@ As fontes de receita da plataforma serão advindas de 2 níveis de assinatura qu
 
 ### Plano Free
 - Acesso a 5 questões corrigidas por semana✅
-- Acesso ao banco de questões completo da plataforma, de acordo com as matérias de seu interesse❌
+- Acesso ao banco de questões completo da plataforma, de acordo com as matérias de seu interesse✅
 - Sem anúncios❌
 - Acesso a comentários detalhados das questões pelos professores❌
 - Tirar novas dúvidas sobre a questão com o autor das questões❌
@@ -53,7 +53,7 @@ As fontes de receita da plataforma serão advindas de 2 níveis de assinatura qu
 - Tirar novas dúvidas sobre a questão com o autor das questões✅
 
 ### Comissão das Mentorias
-Os alunos da plataforma poderão realizar mentorias com os professores que sejam de seu interesse, de acordo com as matérias desejadas. O professor insere seu preço fixo de hora/aula, assim será acertada e marcada uma mentoria de acordo com os termos e condições acertadas pelos dois. A plataforma faz a intermediação desse contato e recebe uma comissão de 20% sobre o valor acertado.
+Os alunos da plataforma poderão realizar mentorias com os professores que sejam de seu interesse, de acordo com as matérias desejadas. O professor insere seu preço fixo de hora/aula, seu horário dispovível e assim o aluno realizará a compra da mentoria marcada. A plataforma faz a intermediação desse contato e recebe uma comissão de 20% sobre o valor acertado.
 
 
 ## Links
