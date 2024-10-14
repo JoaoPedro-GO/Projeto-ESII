@@ -61,3 +61,5 @@ ARQUIVO JORNADA DO USUARIO: Clique [aqui](https://docs.google.com/document/d/1AV
 
 ARQUIVO PROTÓTIPO BAIXA FIDELIDADE: Clique [aqui](https://www.canva.com/design/DAGS7j8s2v4/vBhoi4q9Q46A_VuTnUV92A/view?utm_content=DAGS7j8s2v4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
+LINK DO PROJETO NO YOUTUBE: Clique [aqui](https://www.youtube.com/watch?v=K6agXHq3fks)
+
