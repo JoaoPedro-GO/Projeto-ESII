@@ -5,7 +5,6 @@
 ### Participantes:
 
 - Thales Manoel da Cruz Carrion,
-- Misael Eduardo de Moraes Ramalho,
 - João Pedro Gomes Oliveira,
 - Miguel  José Delgado,
 - Andre Yuji kataoka,
