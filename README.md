@@ -64,5 +64,9 @@ ARQUIVO PROTÓTIPO DE ALTA FIDELIDADE Clique [aqui](https://www.canva.com/design
 
 DIAGRAMA DE BANCO DE DADOS: Clique [aqui](https://drive.google.com/file/d/1O-s_9ZHPZwxw6D2wLmZ1EcY0SecAoXoH/view?usp=sharing)
 
-LINK DO PROJETO NO YOUTUBE: Clique [aqui](https://www.youtube.com/watch?v=K6agXHq3fks)
+LINK DO PROTÓTIPO DE BAIXA FIDELIDADE: Clique [aqui](https://www.youtube.com/watch?v=K6agXHq3fks)
+
+LINK DO PROTÓTIPO DE ALTA FIDELIDADE: Clique [aqui](https://www.youtube.com/watch?v=JAbVwTTKLHs)
+
+
 
