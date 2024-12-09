@@ -62,7 +62,7 @@ ARQUIVO PROTÓTIPO BAIXA FIDELIDADE: Clique [aqui](https://www.canva.com/design/
 
 ARQUIVO PROTÓTIPO DE ALTA FIDELIDADE Clique [aqui](https://www.canva.com/design/DAGTODV_tvY/6rI8EEs1QRR9boc7o79gAg/view?utm_content=DAGTODV_tvY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-DIAGRAMA DE BANCO DE DADOS: Clique [aqui](https://drive.google.com/file/d/1O-s_9ZHPZwxw6D2wLmZ1EcY0SecAoXoH/view?usp=sharing)
+DIAGRAMA DE BANCO DE DADOS: Clique [aqui](https://drive.google.com/file/d/1czO1LIphFUy6wnnNy5gvBUPqRVOliEnL/view?usp=sharing)
 
 LINK DO PROTÓTIPO DE BAIXA FIDELIDADE: Clique [aqui](https://www.youtube.com/watch?v=K6agXHq3fks)
 
