@@ -7,7 +7,7 @@
 - Thales Manoel da Cruz Carrion,
 - João Pedro Gomes Oliveira,
 - Miguel  José Delgado,
-- Andre Yuji kataoka,
+- Murilo Fekete de Souza,
 
 
 
