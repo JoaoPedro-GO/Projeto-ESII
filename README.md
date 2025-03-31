@@ -8,6 +8,7 @@
 - João Pedro Gomes Oliveira,
 - Miguel  José Delgado,
 - Murilo Fekete de Souza,
+- Anderson Watanabe
 
 
 
